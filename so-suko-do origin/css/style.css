@@ -1,0 +1,56 @@
+﻿#index //header {
+  //background-image: url(../image/444-free-japan-map[1].jpg);
+  //height: 500px;
+  //weight: 1000px;
+  //background-size: center;
+  //background-position: 300% 200%;
+  //margin-bottom: 200px;
+
+}
+
+h1 {
+color: #3300f0;
+margin: 0;
+font-size: 75px;
+
+}
+
+h1 {
+  color: #364e96;/*文字色*/
+  padding: 0.5em 0;/*上下の余白*/
+  border-top: solid 3px #364e96;/*上線*/
+  border-bottom: solid 3px #364e96;/*下線*/
+}
+
+
+.btn-square {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #668ad8;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
+}
+.btn-square:active {
+  /*ボタンを押したとき*/
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);/*下に動く*/
+  border-bottom: none;/*線を消す*/
+}
+
+
+.work {
+  text-align: center;
+  width: auto;
+}
+
+body {
+  background-color: #33f3f3;
+  margin: 0;
+}
+
+.float_set {
+  float: left;
+
+}
